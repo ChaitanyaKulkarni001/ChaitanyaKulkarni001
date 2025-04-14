@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Chaitanya Kulkarni</h1>
 <h3 align="center">Decoding the Digital Realm: Insights from a Programmer</h3>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=home" />
+
 - 🌱 I’m currently learning **Machine Learning🤖**
 
 <h3 align="center">Connect with me</h3>
