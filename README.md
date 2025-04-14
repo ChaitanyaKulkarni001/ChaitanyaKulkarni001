@@ -6,17 +6,17 @@
 <h3 align="center">Connect with me</h3>
 
 <div align="center">
-  <a href="https://twitter.com/chaitanyak_001" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="50" width="50" style="margin: 10px;" />
+  <a href="https://twitter.com/chaitanyak_001" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40" style="margin: 10px;" />
   </a>
-  <a href="https://linkedin.com/in/chaitanyaskulkarni" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="50" style="margin: 10px;" />
+  <a href="https://linkedin.com/in/chaitanyaskulkarni" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" style="margin: 10px;" />
   </a>
-  <a href="https://www.leetcode.com/chaitanya_kulkarni_001" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="50" width="50" style="margin: 10px;" />
+  <a href="https://www.leetcode.com/chaitanya_kulkarni_001" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40" style="margin: 10px;" />
   </a>
-  <a href="https://chaitanyakulkarni.vercel.app/" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/home.png" alt="portfolio" height="50" width="50" style="margin: 10px; background-color: #000000; border-radius: 10px;" />
+  <a href="https://chaitanyakulkarni.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/home.png" alt="portfolio" height="40" width="40" style="margin: 10px; background-color: #000000; border-radius: 10px;" />
   </a>
 </div>
 
