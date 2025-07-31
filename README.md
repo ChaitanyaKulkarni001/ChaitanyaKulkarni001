@@ -37,5 +37,10 @@
   <a href="https://www.credly.com/badges/3863d8ab-acc0-4037-8913-86ac994c9efb/public_url" target="_blank">
     <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100"/>
   </a>
+  
+  <a href="https://www.credly.com/badges/67616906-e78e-40d8-8002-2071adf6dda5/public_url" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solution Architect Associate" width="100"/>
+  </a>
+  
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanyakulkarni001&show_icons=true&locale=en&layout=compact" alt="chaitanyakulkarni001" /></p>
