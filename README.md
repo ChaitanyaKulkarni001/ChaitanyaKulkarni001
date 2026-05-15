@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Chaitanya Kulkarni</h1>
 <h3 align="center">Decoding the Digital Realm: Insights from a Programmer</h3>
 
-- 🌱 I’m currently learning **Machine Learning🤖**
+- 🌱 I’m currently learning **Responsible AI🤖**
 
 <h3 align="center">Connect with me</h3>
 
