@@ -29,7 +29,7 @@ Agentic AI Developer at DataPhi-AI, building autonomous agents and multi-agent s
   <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,tailwind,postgres,aws,azure,git,linux&perline=10" alt="Technology stack" />
 </div>
 
-## Selected Projects
+## Projects
 
 | Project | Description | Stack |
 |---|---|---|
