@@ -1,46 +1,47 @@
-<h1 align="center">Hi, I'm Chaitanya Kulkarni</h1>
-<h3 align="center">Decoding the Digital Realm: Insights from a Programmer</h3>
-
-- 🌱 I’m currently learning **Responsible AI🤖**
-
-<h3 align="center">Connect with me</h3>
-
 <div align="center">
-  <a href="https://twitter.com/chaitanyak_001" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://linkedin.com/in/chaitanyaskulkarni" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://www.leetcode.com/chaitanya_kulkarni_001" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://chaitanyakulkarni.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/home.png" alt="portfolio" height="40" width="40" style="margin: 10px; background-color: #000000; border-radius: 10px;" />
-  </a>
+
+<img src="assets/logo.svg" alt="Chaitanya Kulkarni" width="96" height="96" />
+
+# Chaitanya Kulkarni
+
+**AI Engineer — Agentic AI**
+
+Designing and deploying multi-agent systems and RAG pipelines in production on AWS and Azure.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://chaitanyakulkarni.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanyaskulkarni)
+[![Email](https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kulkarnichaitanya001@gmail.com)
+
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<!-- <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p> -->
+## About
 
+Agentic AI Developer at DataPhi-AI, building autonomous agents and multi-agent systems for live client engagements. Experience spans LLM orchestration, semantic search, conversational AI over structured data, and cloud-native deployment. Open to AI Engineer roles.
+
+## Technical Skills
+
+| | |
+|---|---|
+| **AI / GenAI** | Multi-Agent Systems · RAG · LLM Orchestration · Agent Evaluation · MCP |
+| **Frameworks** | LangGraph · LangChain · LangSmith · AWS Strands Agents |
+| **Cloud** | AWS · Azure |
+| **Development** | Python · FastAPI · Django REST Framework · React · PostgreSQL · Git · Linux |
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,materialui" /><br>
-  <img src="https://skillicons.dev/icons?i=django,python,java,javascript" /><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,postman,aws" /><br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,tailwind,postgres,aws,azure,git,linux&perline=10" alt="Technology stack" />
 </div>
 
-<h3 align="left">Certifications:</h3>
-<p align="left">
-  <a href="https://www.credly.com/badges/3863d8ab-acc0-4037-8913-86ac994c9efb/public_url" target="_blank">
-    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100"/>
-  </a>
-  
-  <a href="https://www.credly.com/badges/67616906-e78e-40d8-8002-2071adf6dda5/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solution Architect Associate" width="100"/>
-  </a>
-  
-</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanyakulkarni001&show_icons=true&locale=en&layout=compact" alt="chaitanyakulkarni001" /></p>
+## Selected Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Sahayakam AI** | Multi-agent personal assistant (planner, retrieval, calendar, notification) across Telegram, Teams and web, with multi-format document RAG. | LangGraph, AWS Strands Agents, FastAPI, React |
+| **CareerXpert AI** | Interview preparation platform with conversational agents, provider-agnostic LLM layer and PDF-grounded RAG. | LangGraph, Django REST, React, PostgreSQL |
+| **AgentEval** | Config-driven evaluation harness for LLM and RAG agents, covering response correctness and responsible-AI checks. | LangGraph, FastAPI, React |
+
+## Certifications
+
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/67616906-e78e-40d8-8002-2071adf6dda5/public_url)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/3863d8ab-acc0-4037-8913-86ac994c9efb/public_url)
+- Microsoft Certified: Azure AI Apps and Agents Developer Associate
+- Microsoft Certified: Azure AI Fundamentals
