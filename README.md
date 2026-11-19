@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/logo.svg" alt="Chaitanya Kulkarni" width="96" height="96" />
-
 # Chaitanya Kulkarni
 
 **AI Engineer — Agentic AI**
